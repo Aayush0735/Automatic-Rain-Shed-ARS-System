@@ -77,7 +77,4 @@ This project is licensed under the **MIT License**. Feel free to use and modify.
 Pull requests are welcome! Please fork the repository and submit changes via PR.
 
 ## 📞 Contact
-For any queries or suggestions, reach out to **your.email@example.com** or open an issue.
-
----
-_🌟 Star this repository if you found it useful!_ 🚀
+For any queries or suggestions, reach out to **aayubari@gmail.com** or open an issue.
