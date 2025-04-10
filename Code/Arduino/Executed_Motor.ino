@@ -4,6 +4,7 @@
  * This ESP32 code is released in the public domain
  *
  * For more detail (instruction and wiring diagram), visit https://esp32io.com/tutorials/esp32-rain-sensor-servo-motor
+ * Select the pin configurations carefully. 
  */
 
 #include <Servo.h>
