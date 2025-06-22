@@ -1,0 +1,15 @@
+## Hardware Setup
+1. Connect the rain sensor to GPIO13 of ESP32.
+2. Connect the servo motor to GPIO12.
+3. Power the ESP32 with a USB cable or battery pack.
+
+## Software Setup
+1. Open the Arduino IDE.
+2. Install ESP32 board support via Board Manager.
+3. Connect your ESP32 board and select the right COM port.
+4. Upload the code in `code/arduino/rain_shed.ino`.
+5. Open Serial Monitor to check sensor status.
+
+## Testing
+1. Simulate rain using a wet cloth on the rain sensor.
+2. Observe the automatic movement of the shed.
