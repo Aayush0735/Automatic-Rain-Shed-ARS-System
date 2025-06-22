@@ -1,0 +1,32 @@
+# Ignore compiled Arduino files
+*.hex
+*.elf
+
+# Arduino build folder
+/build/
+*.bin
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Python cache (if using Raspberry Pi code)
+__pycache__/
+*.pyc
+
+# Arduino backup files
+*.ino.*
